@@ -15,6 +15,7 @@
 
 📜 Certificates:
 - [RSSchool Stage-0](https://app.rs.school/certificate/dlargecr);
+- [EF SET](https://www.efset.org/cert/yvSG4G);
 
 
 <!--
