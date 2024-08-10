@@ -21,9 +21,11 @@
 - [RSSchool Stage-0](https://app.rs.school/certificate/dlargecr);
 - [EF SET](https://www.efset.org/cert/yvSG4G);
 
-🥋 Codewars:
+🥋 Codewars/LeetCode:
 
 ![image](https://www.codewars.com/users/ranpu/badges/large)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Ranpu?theme=dark&font=Noto%20Sans%20Buhid)
 <!--
 **Ranpu/Ranpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
