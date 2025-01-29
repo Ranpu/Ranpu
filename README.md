@@ -1,3 +1,4 @@
+<!--
 👋 Hi there! My name is Sasha.
 
 🌱 I am a beginner software engineer with ML Analytics and system administration experience.
@@ -20,6 +21,7 @@
 
 - [RSSchool Stage-0](https://app.rs.school/certificate/dlargecr);
 - [EF SET](https://www.efset.org/cert/yvSG4G);
+-->
 
 🥋 Codewars/LeetCode:
 
